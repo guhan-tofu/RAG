@@ -24,7 +24,7 @@ This project is a Retrieval-Augmented Generation (RAG) pipeline that leverages N
 
 ## Nvidia Model
 
-- **nvidia / llama-3.1-nemotron-70b-instruct**: ![Llama-3.1-Nemotron-70B-Instruct](https://build.nvidia.com/nvidia/llama-3_1-nemotron-70b-instruct) is a large language model customized by NVIDIA to improve the helpfulness of LLM generated responses to user queries.
+- **nvidia / llama-3.1-nemotron-70b-instruct**: [Llama-3.1-Nemotron-70B-Instruct](https://build.nvidia.com/nvidia/llama-3_1-nemotron-70b-instruct) is a large language model customized by NVIDIA to improve the helpfulness of LLM generated responses to user queries.
 
 ### Model Architecture:
 - Architecture Type: Transformer
