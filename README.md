@@ -2,6 +2,9 @@
 
 This project is a Retrieval-Augmented Generation (RAG) pipeline that leverages NVIDIA's **LLaMA 3.1** language model for natural language interaction, **Pinecone** for vector storage and retrieval, and the **all-mpnet-base-v2** model to create text embeddings. The application allows users to upload documents, process them into embeddings, store them in a vector database, and perform contextualized Q&A based on relevant retrieved documents.
 
+![image](https://github.com/user-attachments/assets/1931e306-fcbe-40b6-b40f-7ddd4c389d55)
+
+
 ## Features
 
 - **Upload Document**: Supports .txt file uploads for document embedding and storage in Pinecone.
