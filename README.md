@@ -4,6 +4,8 @@ This project is a Retrieval-Augmented Generation (RAG) pipeline that leverages N
 
 ![image](https://github.com/user-attachments/assets/a6aacad3-4aef-43bd-bb63-c50dc860b01d)
 
+## Contributors 
+
 
 
 ## Features
