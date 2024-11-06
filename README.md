@@ -6,6 +6,9 @@ This project is a Retrieval-Augmented Generation (RAG) pipeline that leverages N
 
 ## Contributors 
 
+Sri Guhanathan
+
+Ernest Bozjigtov
 
 
 ## Features
